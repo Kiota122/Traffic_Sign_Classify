@@ -1,2 +1,2 @@
 # Traffic_Sign_Classify
-This program allow users upload traffic sign and it also used camera to classify traffic sign
+This program allows users to upload traffic signs to classify them, and the program can also use cameras to identify traffic signs.
